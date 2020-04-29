@@ -6,7 +6,7 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "index.html": "b9c2f8892de3e7598221425dbc6ed25b",
 "/": "b9c2f8892de3e7598221425dbc6ed25b",
-"main.dart.js": "5f224125443f62d3052fe9dbb35ac05c",
+"main.dart.js": "62bf53705dfaafc8b549889531167b40",
 "assets/LICENSE": "753f421b1d8ffb4ca2597a589aa2819f",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
